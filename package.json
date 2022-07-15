@@ -1,0 +1,25 @@
+{
+  "name": "blog-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharmaurya267/Blog-site.git"
+  },
+  "author": "Tushar Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharmaurya267/Blog-site/issues"
+  },
+  "homepage": "https://github.com/tusharmaurya267/Blog-site#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
+  }
+}
